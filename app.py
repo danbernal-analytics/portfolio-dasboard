@@ -174,7 +174,7 @@ def create_navigation():
         
         options = {
             "🏠 Inicio": "home",
-            "📊 Portfolio": "projects",
+            "📊 Proyectos": "projects",
             "💼 Experiencia": "experience",
             "🛠 Stack Técnico": "skills",
             "⚡ Mi Enfoque": "proposal",
